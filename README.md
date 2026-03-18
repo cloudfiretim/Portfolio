@@ -168,6 +168,8 @@ public void LoadModule(IJnlModule module, JsonElement jsonData)
 ### Screenshots
 ![Screenshot of the journal application showing modular UI components from the week view](./images/Screenshot01.jpg)
 ![Screenshot of the journal application showing modular UI components and incremental loading in action from the day view](./images/Screenshot02.jpg)
+![Screenshot of the journal application showing modular UI components from the month view](./images/Screenshot03.jpg)
+![Screenshot of the journal application showing modular UI components and Add Entry view](./images/Screenshot04.jpg)
 ---
 ### Design Considerations
 - **Extensibility First**
